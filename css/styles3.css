@@ -1,0 +1,46 @@
+#logo {
+    border-radius: 100px;
+    width: 100px;
+    height: 100px;
+}
+
+.cabecera{
+    background: cornflowerblue;
+}
+
+.navegacion{
+        /* width: 100px;
+    height: 100px; */
+    width: 18%;
+    border: solid;
+    float: left;
+}
+
+.contenido{
+    /* width: 100px;
+    height: 100px; */
+    padding: 10px;
+    width: 39%;
+    height: 1000px;
+    border: solid;
+    float: left;
+}
+
+.lateral{
+        /* width: 100px;
+    height: 100px; */
+    padding: 10px;
+    width: 39%;
+    height: 1000px;
+    border: solid;
+    float: left;
+}
+
+.piePagina{
+        /* width: 100px;
+    height: 100px; */
+    padding: 10px;
+    width: 98%;
+    border: solid;
+    clear: both;
+}
