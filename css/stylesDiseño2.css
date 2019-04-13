@@ -1,0 +1,37 @@
+.navegacion a:active {
+    color: blue;
+}
+
+.contenido1{
+    border: solid;
+    margin: 2px;
+    display: inline-block;
+    padding: 4px;
+}
+
+.contenido1 p {
+    text-align: justify;
+}
+
+.AI{
+    float: left;
+    width: 100px;
+    height: 100px;
+}
+
+.AAI{
+    float: left;
+    width: 100px;
+    height: 100px;
+}
+
+.IC{
+    float: left;
+    width: 100px;
+    height: 100px;
+}
+
+#titulo{
+    text-align: center;
+}
+
