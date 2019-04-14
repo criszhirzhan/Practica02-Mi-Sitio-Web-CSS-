@@ -13,3 +13,15 @@
 .lateral p{
     text-align: justify;
 }
+
+body{
+    background-image: url(../images/fondo2.jpg);
+    background-repeat: repeat-y;
+    background-size: contain;
+    background-attachment: scroll;
+}
+
+.cabecera{
+    background-image: url(../images/portada2.jpg);
+    background-size: 80px 80px;
+}
