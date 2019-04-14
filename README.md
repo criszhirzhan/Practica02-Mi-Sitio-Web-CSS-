@@ -14,9 +14,9 @@
 >   efecto con el “clear:both” para que se quede en la parte inferior de la
 >   pagina.
 
-![](media/a1f80a113f9e7a669d5d22ff37efbe46.png)
+![](media/imagen1.png)
 
-![](media/adb94e1ff0e55addeab084aba891c5c2.png)
+![](media/imagen2.png)
 
 -   Se da formatos a la página Index.html
 
@@ -58,30 +58,30 @@
 >   para que la imagen quede al lado derecho de la caja rodeada por el texto,
 >   también se le da tamaño a las imágenes.
 
-![](media/d71d73c210f281a7f6afa61c8223240a.png)
+![](media/imagen3.png)
 
-![](media/b68b8ff194baa135b78e922105c0d86d.png)
+![](media/imagen4.png)
 
-![](media/e59a6c35a6e91c5cb594eb73b8308611.png)
+![](media/imagen5.png)
 
-![](media/50112be7059eea4ee2be420b41eef993.png)
+![](media/imagen6.png)
 
 >   Finalmente la pagina queda diseñada de la siguiente manera.
 
-![](media/8b2293c09e94366a518b0c69240b260e.png)
+![](media/imagen7.png)
 
-![](media/192e4cdbf3887bf74e7fee1b36bc3eb0.png)
+![](media/imagen8.png)
 
-![](media/e207344c4878cc9c5bda574c72192285.png)
+![](media/imagen9.png)
 
 -   Se estructura la página ciencia.html de tres columnas.
 
 >   De igual manera que en la página anterior se le agrega un logo y los bloques
 >   cabecera, navegación, contenido, lateral y piePagina.
 
-![](media/2574c3b75f25dc6e6494353974a8a774.png)
+![](media/imagen10.png)
 
-![](media/3db671a05310b508785ab3eb737cbb72.png)
+![](media/imagen11.png)
 
 -   Se da formatos a la página ciencia.html
 
@@ -96,28 +96,28 @@
 >   También se utiliza diferentes tipos de selectores. “. contenido ul li {}”,
 >   “.lateral h2, h3{}”, “.logo”, “.piePagina footer address a:hover”.
 
-![](media/78dcf702790c238d76964b4055f58fa4.png)
+![](media/imagen12.png)
 
-![](media/ef0fad244532b170c5677a888a17f869.png)
+![](media/imagen13.png)
 
-![](media/befd0b8be4b26d15e459757895a87ece.png)
+![](media/imagen14.png)
 
-![](media/798ae71e4e4a5dcfd25e258caebc3221.png)
+![](media/imagen15.png)
 
 >   Finalmente la página queda diseñada de la siguiente manera.
 
-![](media/e2af40ca1b521a98192c3f5acb6c1c2d.png)
+![](media/imagen16.png)
 
-![](media/967c7e0a51aa5f5efac2440ad2bc8ba6.png)
+![](media/imagen17.png)
 
-![](media/3a90b66792fe19f0334cb22f1bc84b58.png)
+![](media/imagen18.png)
 
 -   Se estructura la página de la tabla.
 
 >   Esta pagina tiene una estructura de dos columnas, así que esta estructurada
 >   de la misma manera que la primera pagina.
 
-![](media/b75ffb903c5b22c32a59fa7c797192f2.png)
+![](media/imagen19.png)
 
 -   Se da formatos a la página diferencias.html
 
@@ -136,19 +136,19 @@
 >   color de texto, alineado, bordes de las cajas, fondos, Pseudo-clases, tipo
 >   de letra.
 
-![](media/2c7fb8e250b99e91b6d76641d935bb10.png)
+![](media/imagen20.png)
 
-![](media/a71bf0821db3403d89706b67f8be2a4e.png)
+![](media/imagen21.png)
 
-![](media/4897af91c6932eca80b77b721f326f21.png)
+![](media/imagen22.png)
 
-![](media/6a9ce401c69f0e31a3b7d672574c495b.png)
+![](media/imagen23.png)
 
 -   Finalmente la pagina queda diseñada de la siguiente manera.
 
-![](media/54ff61f28ad424abce51ba0170f6dd03.png)
+![](media/imagen24.png)
 
-![](media/a0ae45cf69d32e5be95edff9b9afc88f.png)
+![](media/imagen25.png)
 
 -   Se estructura la pagina del formulario.
 
@@ -165,12 +165,12 @@
 >   Al botón se le da una forma redondeada, un tipo de letra para el nombre y un
 >   color.
 
-![](media/8ed81e78b8cafca1149aae5f75326be9.png)
+![](media/imagen26.png)
 
-![](media/fe0343b0c2fbfb06341ada6e28430b15.png)
+![](media/imagen27.png)
 
-![](media/1f849729341967ca4c8e765b3e1b24bd.png)
+![](media/imagen28.png)
 
 -   Finalmente la pagina queda diseñada de la siguiente manera.
 
-![](media/22f8e1e4f49916af056dd0b1b092692f.png)
+![](media/imagen29.png)
