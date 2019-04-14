@@ -13,6 +13,10 @@
     background: #0CA0B7;
 }
 
+.navegacion ul {
+    font-size: 30px;
+} 
+
 .contenido1{
     border-radius: 1em;
     border: solid;
