@@ -42,6 +42,10 @@ li a:hover {
     background: rgb(7, 51, 87);
 }
 
+.contenido:hover {
+    background: whitesmoke;
+}
+
 .contenido1{
 
     border-radius: 1em;
@@ -87,7 +91,16 @@ body{
 }
 
 .piePagina{
-    background: rgb(55, 124, 170);
+    background: rgb(9, 130, 167);
     border-radius: 1em;
 }
 
+.piePagina footer address a:hover {
+    color: aliceblue;
+
+}
+
+.piePagina footer address a {
+    text-decoration: none;
+
+}
