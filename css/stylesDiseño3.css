@@ -36,6 +36,7 @@ body{
     background-repeat: repeat-y;
     background-size: contain;
     background-attachment: scroll;
+    font-family:Georgia, 'Times New Roman', Times, serif;
 }
 
 .cabecera{
