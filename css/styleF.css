@@ -6,10 +6,16 @@ form {
     padding: 1em;
     border: 1px solid #CCC;
     border-radius: 1em;
+    background-color: #FDFEFE;
+    font-family: cursive;
+}
+
+body{
+    background-color: #D5DBDB;
 }
 
 .volver a{
-    border-radius: 1em;
+    border-radius: 2em;
     float: left;
     background: blueviolet;
 }
@@ -29,6 +35,7 @@ input, textarea {
     /* Para asegurarse de que todos los campos de texto tienen las mismas propiedades de fuente
        Por defecto, las areas de texto tienen una fuente con monospace */
     font: 1em sans-serif;
+    font-family: cursive;
 
     /* Para darle el mismo tamaño a todos los campos de texto */
     width: 300px;
@@ -64,6 +71,10 @@ button {
     /* Este margen extra representa aproximadamente el mismo espacio que el espacio
        entre los labels y sus campos de texto */
     margin-left: .5em;
+    border-radius: 2em;
+    color: #FDFEFE;
+    font-family: cursive;
+    background-color: #2E86C1  ;
 
 }
 
