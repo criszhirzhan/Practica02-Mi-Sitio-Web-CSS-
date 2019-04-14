@@ -17,10 +17,28 @@
 .navegacion ul {
     list-style-type: none;
     font-size: 30px;
-    font-family: cursive
+    font-family: cursive;
 } 
 
+li a {
+    text-decoration: none;
+    
+}
+
+li a:hover {
+   
+    color: white;
+
+    
+}
+
+.contenido{
+    border-radius: 1em;
+    background: rgb(7, 51, 87);
+}
+
 .contenido1{
+
     border-radius: 1em;
     border: solid;
     margin: 2px;
