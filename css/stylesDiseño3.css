@@ -12,6 +12,17 @@
     text-align: justify;
 }
 
+.contenido{
+    border-radius: 1em;
+    border-width: 2px;
+    height: 1152px;;
+}
+
+.lateral{
+    border-radius: 1em;
+    border-width: 2px;
+}
+
 .lateral h2{
     text-align: center;
 }
@@ -30,6 +41,7 @@ body{
 .cabecera{
     background-image: url(../images/portada2.jpg);
     background-size: 80px 80px;
+    border-radius: 1em;
 }
 
 .navegacion ul {
@@ -42,7 +54,22 @@ li a{
     text-decoration: none;
 }
 
+.contenido:hover{
+   border-color: rgb(9, 89, 194);
+}
+
+.lateral:hover{
+    border-color: rgb(9, 89, 194);
+}
 li a:hover{
-    color: white;
+    color: rgb(0, 0, 0);
+}
+
+.piePagina{
+    border-radius: 1em;
+}
+
+.navegacion{
+    border-radius: 1em;
 }
 
