@@ -11,10 +11,13 @@
 .navegacion{
     border-radius: 30%;
     background: #0CA0B7;
+    
 }
 
 .navegacion ul {
+    list-style-type: none;
     font-size: 30px;
+    font-family: cursive
 } 
 
 .contenido1{
