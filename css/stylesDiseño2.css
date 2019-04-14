@@ -2,11 +2,20 @@
     color: blue;
 }
 
+.cabecera{
+    background-image: url(../images/portada1.jpg)
+}
+
+.navegacion{
+    
+}
+
 .contenido1{
     border: solid;
     margin: 2px;
     display: inline-block;
     padding: 4px;
+    background: rgb(55, 91, 156);
 }
 
 .contenido1 p {
@@ -33,5 +42,12 @@
 
 #titulo{
     text-align: center;
+}
+
+body{
+    background-image: url(../images/fondo1.jpg );
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: auto;
 }
 
