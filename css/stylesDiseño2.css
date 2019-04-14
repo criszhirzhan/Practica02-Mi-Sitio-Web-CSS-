@@ -17,6 +17,10 @@
 .navegacion{
     border-radius: 30%;
     background: #0CA0B7;
+    border-top-style: dashed;
+    border-right-style: double;
+    border-bottom-style: dotted;
+    border-left-style: solid;
     
 }
 
