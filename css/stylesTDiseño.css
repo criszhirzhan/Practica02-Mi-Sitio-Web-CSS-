@@ -1,5 +1,11 @@
 body{
     background: cadetblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#titulo{
+    text-align: center;
+    color: aliceblue;
 }
 
 table{
@@ -50,6 +56,7 @@ li a:hover {
 
 li a {
     text-decoration: none;
+    color: rgb(8, 65, 102);
     
 }
 .navegacion ul {
@@ -60,12 +67,34 @@ li a {
 
 .navegacion{
     border-radius: 30%;
-    background: #0CA0B7;
+    background: rgb(135, 201, 211);
     border-top-style: dashed;
     border-right-style: double;
     border-bottom-style: dotted;
     border-left-style: solid;
     
+}
+
+.cabecera{
+    border-radius: 1em;
+    background-color: rgb(46, 110, 110);
+}
+
+.contenido{
+    border-radius: 1em;
+}
+
+.navegacion{
+    border-radius: 1em;
+}
+
+.piePagina{
+    border-radius: 1em;
+    text-align: right;
+}
+
+.navegacion:hover{
+    background-color: rgb(46, 110, 110);
 }
 
  
