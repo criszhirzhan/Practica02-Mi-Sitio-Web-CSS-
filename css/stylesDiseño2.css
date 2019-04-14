@@ -3,14 +3,17 @@
 }
 
 .cabecera{
-    background-image: url(../images/portada1.jpg)
+    background-image: url(../images/portada1.jpg);
+    border-radius: 1em;
 }
 
 .navegacion{
-    
+    border-radius: 30%;
+    background: #0CA0B7;
 }
 
 .contenido1{
+    border-radius: 1em;
     border: solid;
     margin: 2px;
     display: inline-block;
@@ -46,8 +49,13 @@
 
 body{
     background-image: url(../images/fondo1.jpg );
-    background-repeat: no-repeat;
+    /* background-repeat: no-repeat; */
     background-attachment: scroll;
-    background-size: auto;
+    background-size: contain;
+}
+
+.piePagina{
+    background: rgb(5, 58, 117);
+    border-radius: 1em;
 }
 
