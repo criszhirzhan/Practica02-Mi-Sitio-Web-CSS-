@@ -8,8 +8,6 @@
     font-size: 50px;
 }
 
-
-
 .contenido p{
     text-align: justify;
 }
@@ -33,3 +31,18 @@ body{
     background-image: url(../images/portada2.jpg);
     background-size: 80px 80px;
 }
+
+.navegacion ul {
+    list-style-type: none;
+    font-size: 20px;
+    font-family: cursive;
+}
+li a{
+    color: rgb(19, 119, 250);
+    text-decoration: none;
+}
+
+li a:hover{
+    color: white;
+}
+
