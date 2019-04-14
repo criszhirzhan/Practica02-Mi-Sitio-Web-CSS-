@@ -8,23 +8,32 @@
     font-size: 50px;
 }
 
+.contenido ul li {
+
+    color:  #784212;
+}
+
+
 .contenido p{
     text-align: justify;
+    color: #784212;
 }
 
 .contenido{
     border-radius: 1em;
     border-width: 2px;
-    height: 1152px;;
+    height: 1220px;;
 }
 
 .lateral{
     border-radius: 1em;
     border-width: 2px;
+    color: #784212;
 }
 
-.lateral h2{
+.lateral h2, h3{
     text-align: center;
+    color: black;
 }
 
 .lateral p{
@@ -36,6 +45,7 @@ body{
     background-repeat: repeat-y;
     background-size: contain;
     background-attachment: scroll;
+    /* background-color: #FDEBD0; */
     font-family:Georgia, 'Times New Roman', Times, serif;
 }
 
