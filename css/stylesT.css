@@ -13,7 +13,6 @@
     width: 16%;
     border: solid;
     float: left;
-    background: yellowgreen;
 }
 
 .contenido{
@@ -22,8 +21,6 @@
     /* width: 79.2%; */
     width: 81.5%;
     border: solid;
-    border-color: blueviolet;
-    background: yellowgreen;
     position: relative;
     float: left;
 }
