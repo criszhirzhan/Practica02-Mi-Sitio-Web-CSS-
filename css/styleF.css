@@ -17,7 +17,16 @@ body{
 .volver a{
     border-radius: 2em;
     float: left;
-    background: blueviolet;
+    color: #2E86C1;
+}
+
+div a:hover {
+    color: aliceblue;
+}
+
+div a {
+    text-decoration: none;
+    font-family: cursive;
 }
 
 form div + div {
